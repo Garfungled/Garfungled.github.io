@@ -5,4 +5,5 @@ ol {
 
 #tableOfContents {
   list-style-type: upper-roman;
+  align: middle;
 }
