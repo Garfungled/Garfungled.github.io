@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+body{
+    background-image: linear-gradient(to right top, #00ccf2, #32eb5b);
+}
+
+div.para{
+    border-radius: 4px;
+    background-image: linear-gradient(to right top, #4400ff, #136926);
+    border: double white 10px;
+}
+
+p.paraTxt{
+    font-size: 20px;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
