@@ -22,7 +22,7 @@ p.paraTxt{
     text-align: center;
 }
 
-.outline
+.title
 {
   text-align: center;
   font-size: 50px;
@@ -34,12 +34,12 @@ p.paraTxt{
   color: white;
 }
 
-.outline:hover{
+.title:hover{
   font-size: 70px;
   transition: 0.5s;  
 }
 
-.outline:hover:after{
+.title:hover:after{
   text-align: center;
   font-size: 50px;
   color: white;
