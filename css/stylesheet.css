@@ -26,16 +26,16 @@ p.paraTxt{
 {
   text-align: center;
   font-size: 50px;
-  color: white;
-}
-
-.outline:hover{
-  font-size: 60px;
   text-shadow:
   -1px -1px 0 #000,
   1px -1px 0 #000,
   -1px 1px 0 #000,
   1px 1px 0 #000;
+  color: white;
+}
+
+.outline:hover{
+  font-size: 70px;
   transition: 0.5s;  
 }
 
