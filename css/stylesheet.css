@@ -22,13 +22,13 @@ p.paraTxt{
     text-align: center;
 }
 
-h1.term{
+.term{
   text-align: center; 
   color: beige; 
   font-size: 35px;
 }
 
-h2.choice{
+.choice{
   text-align: center; 
   color: beige; 
   font-size: 25px;
