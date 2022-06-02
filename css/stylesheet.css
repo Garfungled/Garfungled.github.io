@@ -39,6 +39,13 @@ p.paraTxt{
   transition: 0.5s;  
 }
 
+.outline:hover:after{
+  text-align: center;
+  font-size: 50px;
+  color: white;
+  transition: 0.5s;  
+}
+
 .term{
   text-align: center; 
   color: beige; 
