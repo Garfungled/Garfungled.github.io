@@ -22,6 +22,18 @@ p.paraTxt{
     text-align: center;
 }
 
+h1.term{
+  text-align: center; 
+  color: beige; 
+  font-size: 35px;
+}
+
+h2.choice{
+  text-align: center; 
+  color: beige; 
+  font-size: 25px;
+}
+
 a.button{
   -webkit-appearance: button;
   -moz-appearance: button;
