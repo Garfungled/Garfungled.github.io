@@ -24,6 +24,7 @@ p.paraTxt{
 
 .title
 {
+  transition: 0.5s; 
   text-align: center;
   font-size: 50px;
   text-shadow:
